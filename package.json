@@ -1,0 +1,22 @@
+{
+  "name": "echarts-extension-tmap",
+  "version": "1.0.0",
+  "description": "extend echarts with tmap",
+  "main": "tmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liulangzhesw/echarts-extension-tmap.git"
+  },
+  "keywords": [
+    "tmap"
+  ],
+  "author": "liulangzhesw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liulangzhesw/echarts-extension-tmap/issues"
+  },
+  "homepage": "https://github.com/Liulangzhesw/echarts-extension-tmap#readme"
+}
